@@ -1,33 +1,44 @@
 var express = require('express');
 var router = express.Router();
 var axios = require('axios');
+var getInitOrders = require('../json/getInitOrders.json');
+var baseURL = 'http://yapi.smart-xwork.cn';
 // var getInitOrders = require('../json/getInitOrders.json');
 var resdata =async ()=>{
-  var data =await axios.get('http://yapi.smart-xwork.cn/mock/82363/api/getCompleteOrders').then(res=>{
-    console.log('res');
-    return res.data;
-  }).catch(err=>{
-    console.log("err");
+  var data =await axios.get(`${baseURL}/mock/82363/api/getInitOrders?userId=1`).catch(err=>{
+    console.log(err);
     return err;
   });
   return data;
 }
 /* GET home page. */
 router.get('/',function(req,res){
-// console.log('1');
+res.send(getInitOrders);
+});
+router.route('/getInitOrders').get((req,res)=>{
   new Promise((resolve,reject)=>{
     resolve(resdata());
-  }).then(r=>{
-    console.log('r:',r);
-    res.send(r);
+  }).then((res)=>{
+    var data = res.data;
+    return data;
+  }).then((json)=>{
+  console.log(json);
+  res.send(json);
   })
-  
-});
-// router.route('/getInitOrders').get((req,res)=>{
-//   var r =  new Promise((resolve,rejects)=>{
-//     resolve(resdata)
-//   })
-//   // console.log(req);
-//   // res.send(getInitOrders);
-// })
+})
+
+
+router.route('/test').get((req,res)=>{
+new Promise((resolve,reject)=>{
+    resolve(resdata());
+  }).then((res)=>{
+    var data = res.data;
+    return data;
+  }).then((json)=>{
+  console.log(json);
+  json.msg="userId=1";
+  res.send(json);
+  })
+
+})
 module.exports = router;

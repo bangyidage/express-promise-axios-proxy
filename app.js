@@ -14,12 +14,8 @@ app.set('view engine', 'jade');
 
 
 const options = {
-  target: 'http://yapi.smart-xwork.cn', // target host
+  target: 'http://bbb.com', // target host
   changeOrigin: true, // needed for virtual hosted sites
-  ws: true, // proxy websockets
-  pathRewrite: {
-    '^/': '/', // rewrite path
-  },
 };
 
 const exampleProxy = createProxyMiddleware(options);
