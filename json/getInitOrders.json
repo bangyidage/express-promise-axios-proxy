@@ -1,0 +1,308 @@
+{
+    "code":0,
+    "data":{
+        "lists":[
+            {
+              "id": 0,
+              "type": 0,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            }, 
+                        {
+              "id": 1,
+              "type": 0,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 2,
+              "type": 0,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 3,
+              "type": 0,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 4,
+              "type": 0,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 5,
+              "type": 0,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 6,
+              "type": 0,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 7,
+              "type": 0,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 8,
+              "type": 0,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            }
+        ],
+        "lists1": [
+            {
+              "id": 0,
+              "type": 1,
+              "money": "100.1万",
+              "projName": "大团圆工程",
+              "code": "PEP023125",
+              "target": "中国股份股份有限公司",
+              "agent": "张小三",
+              "branch": "参谋部",
+              "projTime": "2020-02-01"
+            }, 
+                        {
+              "id": 1,
+              "type": 1,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 2,
+              "type": 1,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 3,
+              "type": 1,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 4,
+              "type": 1,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 5,
+              "type": 1,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 6,
+              "type": 1,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 7,
+              "type": 1,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 8,
+              "type": 1,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            }  
+        ],
+        "lists2": [
+            {
+              "id": 0,
+              "type": 2,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            }, 
+                        {
+              "id": 1,
+              "type": 2,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 2,
+              "type": 2,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 3,
+              "type": 2,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 4,
+              "type": 2,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 5,
+              "type": 2,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 6,
+              "type": 2,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 7,
+              "type": 2,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            },  
+                        {
+              "id": 8,
+              "type": 2,
+              "money": "100万",
+              "projName": "东北铝矿开发二期工程",
+              "code": "PEP00022505",
+              "target": "中国铝业股份有限公司",
+              "agent": "张三",
+              "branch": "投资部",
+              "projTime": "2020-02-01"
+            }
+        ]
+    }
+}
